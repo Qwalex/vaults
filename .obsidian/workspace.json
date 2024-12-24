@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PetProjects/Оптимизация проекта portal-frontend-landing-factory-v2.md",
+                "file": "_Path/Рецепты Javascript/Числа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Оптимизация проекта portal-frontend-landing-factory-v2"
+              "title": "Числа"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "8ad2e79369dc7d3b",
   "lastOpenFiles": [
-    "MTSBank/SITE20-9109.md",
     "PetProjects/Оптимизация проекта portal-frontend-landing-factory-v2.md",
+    "MTSBank/SITE20-9109.md",
     "Untitled.md",
     "MTSBank/GITLAB SEARCH.md",
     "PetProjects/MTSBankWebCli.md",
