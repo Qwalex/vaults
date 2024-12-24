@@ -11,10 +11,14 @@
             "id": "4e43a7669da1bcdc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Path/Рецепты Javascript/Числа.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Числа"
             }
           }
         ]
@@ -91,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_Path/Рецепты Javascript/Числа.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "_Path/Рецепты Javascript/Числа.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,7 +127,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "_Path/Рецепты Javascript/Числа.md"
+          },
           "icon": "lucide-list",
           "title": "Структура"
         }
@@ -140,5 +148,7 @@
     }
   },
   "active": "4e43a7669da1bcdc",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_Path/Рецепты Javascript/Настройка среды разработки.md"
+  ]
 }
